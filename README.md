@@ -1,6 +1,6 @@
 # Simple_JS_Calc
  
-Non-flexible calculator. I'm just practicing my HTML/CSS and JS skills.
+Non-flexible, minimal calculator 🙂. I'm just practicing my HTML/CSS and JS skills.
 
 [View live app here](https://preeminent-croissant-14b03d.netlify.app/)
 
